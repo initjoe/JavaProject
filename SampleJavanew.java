@@ -1,5 +1,5 @@
 
-public class SampleJavanewagainnew {
+public class SampleJavanew {
 
 	private int salary;
 	private int id;
