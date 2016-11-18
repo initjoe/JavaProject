@@ -3,6 +3,7 @@ public class SampleJava {
 
 	private int salary;
 	private int id;
+	private int a;
 	public int getSalary() {
 		return salary;
 	}
